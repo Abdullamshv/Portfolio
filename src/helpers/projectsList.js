@@ -1,5 +1,5 @@
-import project01 from "./../img/projects/01.jpg";
-import project01Big from "./../img/projects/01-big.jpg";
+import BodyShape from "./../img/projects/BodyShape.png";
+import BodyShapeBig from "./../img/projects/BodyShape-big.png";
 
 import project02 from "./../img/projects/02.jpg";
 import project02Big from "./../img/projects/02-big.jpg";
@@ -20,9 +20,9 @@ const projects = [
 	{
 		title: 'Gaming streaming portal',
 		skills: 'React, Node.js, MongoDB',
-		img: project01,
-		imgBig: project01Big,
-		gitHubLink: 'https://github.com',
+		img: BodyShape,
+		imgBig: BodyShapeBig,
+		gitHubLink: 'https://github.com/Abdullamshv/BodyShape.git',
 	},
 	{
 		title: 'Video service',
