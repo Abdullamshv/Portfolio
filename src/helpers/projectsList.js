@@ -1,8 +1,8 @@
 import BodyShape from "./../img/projects/BodyShape.png";
 import BodyShapeBig from "./../img/projects/BodyShape-big.png";
 
-import project02 from "./../img/projects/02.jpg";
-import project02Big from "./../img/projects/02-big.jpg";
+import silkway from "./../img/projects/Silkway-global_small.jpg";
+import silkwaySmall from "./../img/projects/Silkway-global_small.jpg";
 
 import project03 from "./../img/projects/03.jpg";
 import project03Big from "./../img/projects/03-big.jpg";
@@ -25,10 +25,10 @@ const projects = [
 		gitHubLink: 'https://github.com/Abdullamshv/BodyShape.git',
 	},
 	{
-		title: 'Video service',
-		img: project02,
-		imgBig: project02Big,
-		skills: 'React, PHP, MySql',
+		title: 'Silkway-Global education center',
+		img: silkwaySmall,
+		imgBig: silkway,
+		skills: 'React, JavaScript, Tailwind/CSS',
 		gitHubLink: 'https://github.com',
 	},
 	{
